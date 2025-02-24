@@ -67,4 +67,5 @@ class Matrix:
                 new_row.append(new_element)
             mat_res.append(new_row)
 
+        return mat_res
 
