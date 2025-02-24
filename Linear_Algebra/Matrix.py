@@ -54,5 +54,17 @@ class Matrix:
 
         return res
 
-    def cofactor(matrix:list[list]):
+    def cofactor(matrix:list[list]) -> list[list]:
+        
+        mat_res = []
         sign = 1
+        ROWS, COLS = len(matrix), len(matrix[0])
+
+        for cur_row in range(ROWS):
+            new_row = []  
+            for cur_col in range(COLS):
+                new_element = sign*Matrix.determinant(Matrix.__get_sub_mat(matrix, cur_row, cur_col))
+                new_row.append(new_element)
+            mat_res.append(new_row)
+
+
