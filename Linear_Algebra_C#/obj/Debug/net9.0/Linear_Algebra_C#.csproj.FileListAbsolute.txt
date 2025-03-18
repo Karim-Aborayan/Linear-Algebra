@@ -1,0 +1,5 @@
+D:\Study\Programming\Projects\Linear-Algebra\Linear_Algebra_C#\obj\Debug\net9.0\Linear_Algebra_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming\Projects\Linear-Algebra\Linear_Algebra_C#\obj\Debug\net9.0\Linear_Algebra_C#.AssemblyInfoInputs.cache
+D:\Study\Programming\Projects\Linear-Algebra\Linear_Algebra_C#\obj\Debug\net9.0\Linear_Algebra_C#.AssemblyInfo.cs
+D:\Study\Programming\Projects\Linear-Algebra\Linear_Algebra_C#\obj\Debug\net9.0\Linear_Algebra_C#.csproj.CoreCompileInputs.cache
+D:\Study\Programming\Projects\Linear-Algebra\Linear_Algebra_C#\obj\Debug\net9.0\Linear_Algebra_C#.sourcelink.json
