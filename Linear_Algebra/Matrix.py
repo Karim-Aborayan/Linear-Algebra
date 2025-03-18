@@ -5,6 +5,7 @@ class Matrix:
         self.cols = cols
         self.elements = [[0]*cols]*rows
 
+    
     def __init__(self, order:int):
         self.rows = order
         self.cols = order
